@@ -1,0 +1,23 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+
+# Next.js build output
+/.next/
+/out/
+/build/
+
+# local environment files
+.env*
+!.env.example
+
+# tooling output
+coverage/
+*.tsbuildinfo
+next-env.d.ts
+
+# editor and operating-system files
+.DS_Store
+Thumbs.db
+.vscode/
